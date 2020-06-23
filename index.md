@@ -7,5 +7,4 @@ Harry Potter is the central character of a series of books, a boy who lives in  
 * has a lightning-shaped scar on his forehead
 * loves to play Quidditch
 
-As he says in the Prisoner of Azkaban:
 > "I solemnly swear I am up to no good."
