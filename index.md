@@ -8,3 +8,5 @@ Harry Potter is the central character of a series of books, a boy who lives in  
 * loves to play Quidditch
 
 > I solemnly swear I am up to no good.
+
+<img src="https://static.kino.de/wp-content/uploads/2017/08/harry-potter-Artikelbild-rcm950x0.jpg"/>
